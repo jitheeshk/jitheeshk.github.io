@@ -14,11 +14,11 @@
          
 ## My Interest 
 
-  *> PHP coding
-  *> C and C++
-  *> Java 
-  *> Cross platform app development using Xamarine
-  *> Tutorials
+  * > PHP coding<br/>
+  * > C and C++<br/>
+  * > Java <br/>
+  * > Cross platform app development using Xamarine<br/>
+  * > Tutorials<br/>
  
 ## Fab Lab @ MESCE
 

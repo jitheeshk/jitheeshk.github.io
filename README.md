@@ -4,8 +4,8 @@
 
 ## Contact Me
 
-E-mail : jitheeshkharidasan@gmail.com <br/>
-         jitheeshhdas@gmail.com <br/>
+E-mail : * jitheeshkharidasan@gmail.com <br/>
+         * jitheeshhdas@gmail.com <br/>
 
 Mobile : 8086862451
          9605288386

@@ -1,6 +1,6 @@
 ## ABOUT ME
 
- Im Jitheesh  , an student of [MESCE](http://www.mesce.ac.in/),Kuttippuram .
+ Im Jitheesh  , an student of [MESCE](http://www.mesce.ac.in/),Kuttippuram . Im a engineering student pursuing B.Tech in Computer Science and Engineering .
 
 ### Markdown
 

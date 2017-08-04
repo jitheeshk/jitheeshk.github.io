@@ -29,11 +29,11 @@
 
 Jaseel Mohammed - 812915561 <br/>
  
- ## First Day - Introduction to Fab Lab
+## First Day - Introduction to Fab Lab
    Fab lab @ MESCE is the only Fab Lab in the Malabar region . It was decided to conduct a 2 week training session for the students of the college to famialarize the machines to the students and to provide a hands-on workshop on the same . The equipments in our institution includes :<br/
    * > [3-D printer](https://en.wikipedia.org/wiki/3D_printing)<br/>
    * > [Vinyl Cutter](https://en.wikipedia.org/wiki/Vinyl_cutter)<br/>
    * > [CNC Milling machine](https://en.wikipedia.org/wiki/Milling_(machining)) etc . . .<br/>
    
- ## Second Day - Introduction to software used 
+## Second Day - Introduction to software used 
     Various software requied for the smooth conduct of the training session was introduced . 

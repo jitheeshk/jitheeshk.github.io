@@ -36,3 +36,4 @@ Jaseel Mohammed - 812915561
    * > [CNC Milling machine](https://en.wikipedia.org/wiki/Milling_(machining)) etc . . .
    
  ### Second Day - Introduction to software used 
+    Various software requied for the smooth conduct of the training session was introduced . 

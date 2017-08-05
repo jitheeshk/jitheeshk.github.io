@@ -29,29 +29,19 @@
             style="height: 85px; width: 198px" id="imgClickAndChange" onclick="changeImage()"  />
  <script language="javascript">
     function changeImage() {
-
-        if (document.getElementById("imgClickAndChange").src == "<script language="javascript">
+     if (document.getElementById("imgClickAndChange").src == "<script language="javascript">
     function changeImage() {
-
-        if (document.getElementById("imgClickAndChange").src == "jitheeshk.github.io/852238882_74044[1].jpg") 
-        {
+               if (document.getElementById("imgClickAndChange").src == "jitheeshk.github.io/852238882_74044[1].jpg") 
+                {
             document.getElementById("imgClickAndChange").src = "jitheeshk.github.io/852236424_74353[1].jpg";
-        }
-        else 
-        {
+                }
+               else 
+                {
             document.getElementById("imgClickAndChange").src = "jitheeshk.github.io/852238882_74044[1].jpg";
-        }
-    }
-</script") 
-        {
-            document.getElementById("imgClickAndChange").src = "http://www.userinterfaceicons.com/80x80/maximize.png";
-        }
-        else 
-        {
-            document.getElementById("imgClickAndChange").src = "http://www.userinterfaceicons.com/80x80/minimize.png";
-        }
-    }
-</script>
+                }
+                        }
+  </script") 
+        
 ### Tarainer 
 
 Jaseel Mohammed - 812915561 

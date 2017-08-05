@@ -1,6 +1,7 @@
 ## About Me
 
  Im Jitheesh,an engineering student pursuing my B-Tech in Computer Science and Engineering at [MESCE](http://www.mesce.ac.in/),Kuttippuram . I did my schooling from [Kendriya Vidhyalaya Thrissur](http://www.kvthrissur.in/) and [Kendriya Vidhyalaya Ottapalam](http://kvottapalam.nic.in/) .
+ <img src="" height="42" width="42">
 
 ## Contact Me
 

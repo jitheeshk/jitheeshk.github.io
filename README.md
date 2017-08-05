@@ -27,7 +27,7 @@
   Fab Lab @ MESCE , Kuttippuram is the only fab lab in the Malabar Zone . A training session was conducted for the students of the college from 2nd August 2017 to 17th August 2107 inorder to make us familirized with the machines and to help us explore about new technologies . 
 
 var images = [], x = 0;
-images[0] = "";
+images[0] = "jitheeshk.github.io/852235222_74805[1].jpg";
 images[1] = "";
 images[2] = "";
 

@@ -30,7 +30,7 @@
 
 Jaseel Mohammed - 812915561 
  
-## [First Day - Introduction to Fab Lab](https://jitheeshk.github.io/mescefablab.github.io/)
+## First Day - [Introduction to Fab Lab](https://jitheeshk.github.io/mescefablab.github.io/)
 <img src="jitheeshk.github.io/852235222_74805[1].jpg">
    
 ## Second Day - Introduction to software used 

@@ -36,13 +36,13 @@ Jaseel Mohammed - 812915561
 
 ### Third Day - [Electronics Production and CNC](https://jitheeshk.github.io/third.md)
                                 
-### Fourth Day - Vinyl Cutting
+### Fourth Day - [Vinyl Cutting](https://jitheeshk.github.io/fourth.md)
                                 	
-### Fifth Day - Screen Printing
+### Fifth Day - [Screen Printing](https://jitheeshk.github.io/fifth.md)
                                 	
-### Sixth Day - 3D Printing
+### Sixth Day - [3D Printing](https://jitheeshk.github.io/sixth.md)
                                 
-### Sixth Day - Laser Cutting,Moulding and Casting
+### Seventh Day - [Laser Cutting,Moulding and Casting](https://jitheeshk.github.io/seventh.md)
                                 
 ### Project
 

@@ -34,7 +34,7 @@ Jaseel Mohammed - 812915561
 
 ### Second Day - [Introduction to software used and Documentation](https://jitheeshk.github.io/software.github.io/) 
 
-### Third Day - [Electronics Production and CNC](https://jitheeshk.github.io/THIRD.md)
+### Third Day - [Electronics Production and CNC](https://jitheeshk.github.io/electronics.github.io/)
                                 
 ### Fourth Day - [Vinyl Cutting](https://jitheeshk.github.io/fourth.md)
                                 	

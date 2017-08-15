@@ -29,21 +29,23 @@
 ### Trainer 
 
 Jaseel Mohammed - 812915561 
+
+### Syllabus
  
-### First Day - [Introduction to Fab Lab](https://jitheeshk.github.io/mescefablab.github.io/)
+#### First Day - [Introduction to Fab Lab](https://jitheeshk.github.io/mescefablab.github.io/)
 
-### Second Day - [Introduction to software used and Documentation](https://jitheeshk.github.io/software.github.io/) 
+#### Second Day - [Introduction to software used and Documentation](https://jitheeshk.github.io/software.github.io/) 
 
-### Third Day - [Electronics Production and CNC](https://jitheeshk.github.io/electronics.github.io/)
+#### Third Day - [Electronics Production and CNC](https://jitheeshk.github.io/electronics.github.io/)
                                 
-### Fourth Day - [Vinyl Cutting](https://jitheeshk.github.io/vinylcutting.github.io/)
+#### Fourth Day - [Vinyl Cutting](https://jitheeshk.github.io/vinylcutting.github.io/)
                                 	
-### Fifth Day - [Screen Printing](https://jitheeshk.github.io/screenprinting.github.io/)
+#### Fifth Day - [Screen Printing](https://jitheeshk.github.io/screenprinting.github.io/)
                                 	
-### Sixth Day - [3D Printing](https://jitheeshk.github.io/threedprinting.github.io/)
+#### Sixth Day - [3D Printing](https://jitheeshk.github.io/threedprinting.github.io/)
                                 
-### Seventh Day - [Laser Cutting,Moulding and Casting](https://jitheeshk.github.io/laser.github.io/)
+#### Seventh Day - [Laser Cutting,Moulding and Casting](https://jitheeshk.github.io/laser.github.io/)
                                 
-### Project
+#### Project
 
  

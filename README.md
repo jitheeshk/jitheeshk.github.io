@@ -1,4 +1,4 @@
-<img src="http://jitheeshk.github.io/customLogo.psd">
+<img src="http://jitheeshk.github.io/customLogo.jpg" allign="middle">
 
 ## About Me
 

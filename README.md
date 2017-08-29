@@ -48,6 +48,6 @@ Jaseel Mohammed - 812915561
                                 
 #### Seventh Day - [Laser Cutting,Moulding and Casting](https://jitheeshk.github.io/laser.github.io/)
                                 
-#### Project
+#### [Project](https://jitheeshk.github.io/project.github.io/)
 
  
